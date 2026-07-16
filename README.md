@@ -53,7 +53,7 @@
 
 ##  Проекты
 
-### 🎵 Music Player
+### 🎵 [Music Player](https://github.com/Dmitry1lp/Playlist_Maker)
 
 Учебный проект, в котором реализовал большинство базовых компонентов Android SDK и познакомился с архитектурным подходом MVVM.
 
