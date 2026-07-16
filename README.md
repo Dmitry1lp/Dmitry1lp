@@ -85,7 +85,7 @@
 
 ---
 
-### 💼 Job Search
+### 💼 [Job Search](https://github.com/Dmitry1lp/practicum-android-diploma)
 
 Дипломный проект — приложение для поиска вакансий.
 
@@ -109,7 +109,7 @@
 
 ---
 
-### 🛒 Shopping List
+### 🛒 [Shopping List](https://github.com/Dmitry1lp/shopping-list-team-30-1)
 
 Приложение для управления списками покупок.
 
